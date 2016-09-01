@@ -1,0 +1,3 @@
+Project from Guide: http://spring.io/guides/gs/accessing-data-jpa/
+
+To execute with mysql profile: mvn spring-boot:run -Dspring.profiles.active=mysql
